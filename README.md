@@ -51,8 +51,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📫 Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/muxun-zhang)
-- [Email](mailto:muxun.zhang@mail.utoronto.ca)
+- [LinkedIn](https://www.linkedin.com/in/muxun-zhang)
 
 ## 🔗 My Projects
 
