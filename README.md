@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 - **Languages:** Python, Java, C, SQL
 - **Web Development:** HTML, CSS, JavaScript
-- **Databases:** MySQL, SQLite
+- **Databases:** MySQL, SQLite, Firebase
 - **Tools:** Git, GitHub, VS Code
 
 <!--
