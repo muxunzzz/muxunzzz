@@ -20,12 +20,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 🛠️ Languages and Tools
 
-- **Languages:** Python, Java, C, SQL
-- **Web Development:** HTML, CSS, JavaScript, Flask, Node.js, Express.js
-- **Android Development:** Java, XML, Mockito, JUnit
+- **Languages:** Python, Java, C, R, SQL
+- **Frameworks:** TensorFlow, Keras, NumPy, Pandas, Scikit-Learn
+- **Web Development:** HTML, CSS, JavaScript, Flask, Node.js
+- **Android Development:** Java, Mockito, JUnit
 - **Databases:** MySQL, SQLite, Firebase
 - **Tools:** Git, GitHub, VS Code, Jira
-- **Testing:** Unit Testing, Test Cases
 
 <!--
 
