@@ -60,5 +60,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - [Planetze](https://github.com/danielstevanus88/Planetze) - A carbon-tracking Android app that helps users monitor daily carbon emissions.
 - [CSCB20 Course Website](https://github.com/muxunzzz/course-website) - A course website for Introduction to Databases and Web Applications.
 - [Feedback Website](https://github.com/muxunzzz/feedback-website) - A website that collects requirements from customers of a financial analysis system.
+- [MNIST Classification](https://github.com/muxunzzz/mnist-classification) - A Jupyter Notebook that trains a KNN Classifier and a Random Forest Classifier on the MNIST dataset.
+- [Image Denoiser](https://github.com/muxunzzz/image-denoiser) - A Jupyter Notebook that uses RBF Regression and K-Means Clustering to remove salt-and-pepper noise.
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch!
