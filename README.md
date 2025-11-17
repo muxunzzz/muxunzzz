@@ -37,7 +37,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muxunzzz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muxunzzz&hide=Jupyter%20Notebook,HTML,CSS,EJS&layout=compact&theme=radical)
 
 <!--
 
